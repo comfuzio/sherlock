@@ -6,7 +6,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LessWrong
 LushStories
 Minecraft
 PocketStars
@@ -16,7 +15,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
@@ -26,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
