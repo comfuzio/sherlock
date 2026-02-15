@@ -1,15 +1,16 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
+Cracked Forum
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -20,7 +21,7 @@ Splice
 Spotify
 TryHackMe
 Weblate
-eintracht
+YandexMusic
 mercadolivre
 opennet
 phpRU
