@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -18,10 +17,8 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
