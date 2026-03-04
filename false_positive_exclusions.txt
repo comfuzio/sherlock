@@ -1,6 +1,6 @@
 APClips
+Academia.edu
 Archive.org
-Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
@@ -8,8 +8,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 Patched
 PocketStars
 Realmeye
@@ -26,7 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
-opennet
+nnRU
 phpRU
 svidbook
