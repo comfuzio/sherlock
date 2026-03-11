@@ -1,7 +1,7 @@
 APClips
 Archive.org
+CGTrader
 Codolio
-Cults3D
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,7 +19,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
@@ -30,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
