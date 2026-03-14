@@ -1,6 +1,9 @@
 APClips
 Archive.org
+BoardGameGeek
+Carbonmade
 Codolio
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
@@ -10,20 +13,16 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
