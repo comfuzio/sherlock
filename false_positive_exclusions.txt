@@ -1,16 +1,13 @@
 APClips
 Archive.org
-BoardGameGeek
-Carbonmade
 Codolio
-GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -26,6 +23,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
