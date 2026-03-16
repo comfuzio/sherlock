@@ -1,9 +1,9 @@
 APClips
 Archive.org
 Codolio
+GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -20,10 +20,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
