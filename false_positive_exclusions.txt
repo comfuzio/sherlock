@@ -4,7 +4,6 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
