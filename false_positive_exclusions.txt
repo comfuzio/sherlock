@@ -24,7 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
+Tenor
 Trovo
 TryHackMe
 Weblate
