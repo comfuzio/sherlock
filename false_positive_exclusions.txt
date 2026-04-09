@@ -3,8 +3,8 @@ APClips
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -13,7 +13,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,14 +23,13 @@ SlideShare
 Smule
 Splice
 Spotify
-Tenor
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
+eintracht
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
