@@ -7,14 +7,14 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -34,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
