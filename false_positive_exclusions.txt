@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +12,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -35,6 +33,8 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
