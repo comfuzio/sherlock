@@ -3,7 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+BoardGameGeek
 Codolio
 Cults3D
 DeviantArt
@@ -12,9 +12,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -29,7 +29,9 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
+YandexMusic
 dailykos
 interpals
 mercadolivre
