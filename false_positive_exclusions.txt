@@ -1,20 +1,17 @@
 7Cups
 APClips
-Academia.edu
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -23,7 +20,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -38,4 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
