@@ -6,6 +6,7 @@ Archive.org
 Bandcamp
 Codolio
 Cults3D
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -14,20 +15,20 @@ Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Strava
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -36,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
