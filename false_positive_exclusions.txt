@@ -6,16 +6,13 @@ Archive.org
 Bandcamp
 CGTrader
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
-LessWrong
 Patched
 Pornhub
 Rarible
@@ -42,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
