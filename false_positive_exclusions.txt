@@ -12,11 +12,12 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Patched
 Pornhub
 Rarible
 Realmeye
+RedTube
 Reddit
 Replit.com
 RocketTube
@@ -31,6 +32,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+YouPorn
 authorSTREAM
 dailykos
 igromania
@@ -39,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
