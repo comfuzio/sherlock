@@ -14,7 +14,6 @@ Hashnode
 Hubski
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,6 +24,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
