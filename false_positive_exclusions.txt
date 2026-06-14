@@ -14,11 +14,8 @@ Giphy
 HackenProof (Hackers)
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,4 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
