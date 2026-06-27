@@ -9,14 +9,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -28,10 +26,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
