@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,13 +15,14 @@ Houzz
 Hubski
 LessWrong
 Odysee
+PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
