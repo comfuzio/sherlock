@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -37,8 +38,8 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -47,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
