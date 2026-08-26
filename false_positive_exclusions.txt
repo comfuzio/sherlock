@@ -5,6 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,7 +15,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -48,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
