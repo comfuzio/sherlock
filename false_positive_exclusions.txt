@@ -1,15 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -49,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
