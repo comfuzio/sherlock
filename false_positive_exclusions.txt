@@ -5,10 +5,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,10 +19,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,6 +44,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
