@@ -6,6 +6,7 @@ Archive.org
 Bandcamp
 CGTrader
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -24,11 +26,13 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
