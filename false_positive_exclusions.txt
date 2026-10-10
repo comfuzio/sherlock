@@ -42,7 +42,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
