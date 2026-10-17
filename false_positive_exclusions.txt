@@ -7,12 +7,14 @@ Archive.org
 Bandcamp
 Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,7 +24,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +41,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,4 +57,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
