@@ -5,28 +5,23 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -57,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
