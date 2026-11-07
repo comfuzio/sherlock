@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -16,8 +17,8 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,19 +29,18 @@ Shelf
 SlideShare
 Splice
 Spotify
+TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
-igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
